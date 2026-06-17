@@ -64,12 +64,12 @@ ORDER BY total_revenue DESC
 
 ## 🔗 Repos liés
 
-- [`dbt-retail-analytics-pipeline`](https://github.com/<votre-username>/dbt-retail-analytics-pipeline) — Ces analyses sont intégrées en production dans les marts dbt
-- [`powerbi-retail-dashboard`](https://github.com/<votre-username>/powerbi-retail-dashboard) — Visualisation des segments dans Power BI
+- [`dbt-retail-analytics-pipeline`](https://github.com/kokohuil/dbt-retail-analytics-pipeline) — Ces analyses sont intégrées en production dans les marts dbt
+- [`powerbi-retail-dashboard`](https://github.com/kokohuil/powerbi-retail-dashboard) — Visualisation des segments dans Power BI
 
 ---
 
 ## 👤 Auteur
 
 **William KOUKOUI** — Data Analyst / Analytics Engineer
-[LinkedIn](https://linkedin.com/in/william-koukoui) · [Email](mailto:william.koukoui.ai@gmail.com)
+[LinkedIn](https://linkedin.com/in/wi-ko) · [Email](mailto:william.koukoui.ai@gmail.com)
